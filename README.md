@@ -1,3 +1,3 @@
-# final-project
+# HW Practice Assessment
 
-A full stack JavaScript solo project.
+Practice assessment is to replicate the frontend application below as close as possible. You are allowed to use any frontend framework (React.js, Vue.js, etc.) or use plain Javascript, HTML, and CSS.
