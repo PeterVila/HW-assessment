@@ -1,5 +1,5 @@
 {
-  "name": "react-code-journal",
+  "name": "hw-assessment",
   "version": "1.0.0",
   "private": true,
   "description": "A full stack JavaScript solo project.",
@@ -43,5 +43,15 @@
     "webpack": "^5.61.0",
     "webpack-cli": "^4.9.1",
     "webpack-dev-server": "^4.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeterVila/HW-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeterVila/HW-assessment/issues"
+  },
+  "homepage": "https://github.com/PeterVila/HW-assessment#readme"
 }
